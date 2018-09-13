@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.webcheckers.handlers.CheckersSessionTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.022 sec <<< FAILURE! - in com.webcheckers.handlers.CheckersSessionTest
+test_currentPlayer  Time elapsed: 0.021 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <5> but was: <3>
+	at com.webcheckers.handlers.CheckersSessionTest.test_currentPlayer(CheckersSessionTest.java:77)
+
