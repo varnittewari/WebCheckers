@@ -1,0 +1,13 @@
+com\webcheckers\controllers\HomeControllerTest.class
+com\webcheckers\handlers\CheckersSessionTest.class
+com\webcheckers\appl\BoardViewTest.class
+com\webcheckers\appl\PlayerHolderTest.class
+com\webcheckers\ui\TemplateEngineTester.class
+com\webcheckers\controllers\something.class
+com\webcheckers\appl\PlayerTest.class
+com\webcheckers\appl\PieceTest.class
+com\webcheckers\controllers\GameControllerTest.class
+com\webcheckers\controllers\UserControllerTest.class
+com\webcheckers\ui\TemplateEngineTester$1.class
+com\webcheckers\appl\MessageTest.class
+com\webcheckers\controllers\GameControllerTest$viewMode.class
